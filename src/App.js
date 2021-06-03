@@ -1,5 +1,4 @@
 import { PokemonList } from './components/PokemonList'
-import { ModalDetails } from './components/PokemonModalDetails'
 
 import { PokemonProvider } from './context/Pokemon'
 
